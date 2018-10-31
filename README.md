@@ -9,3 +9,6 @@
 
 ## CICD
  - https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html
+
+## WebService
+ - https://github.com/Microsoft/TypeScript-Node-Starter
