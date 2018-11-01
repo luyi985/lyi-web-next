@@ -3,6 +3,7 @@
 ## NEXT DOC
  - https://nextjs.org/learn/
  - https://github.com/zeit/next.js/
+ - https://medium.com/@victor36max/using-redux-saga-with-next-js-2b5d5add1ec6
 
 ## Form
  - https://github.com/jaredpalmer/formik
