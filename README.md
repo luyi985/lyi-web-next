@@ -12,3 +12,6 @@
 
 ## WebService
  - https://github.com/Microsoft/TypeScript-Node-Starter
+
+## Deploy
+ - https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-dynamodb-tutorial.html?refid=gs_card
