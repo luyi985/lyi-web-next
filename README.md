@@ -12,6 +12,7 @@
 
 ## CICD
  - https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html
+ - https://medium.com/@vkaarthek/deploying-next-js-on-aws-lambda-2b8e8ab23697
 
 ## WebService
  - https://github.com/Microsoft/TypeScript-Node-Starter
