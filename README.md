@@ -10,6 +10,7 @@
 ## Antd with Nextjs
  - https://juejin.im/post/5b83e1776fb9a01a2022879b
  - https://blog.taotao.io/next-js-antd/
+ - https://github.com/vthang95/react-redux-nextjs-antd-boilerplate
 
 ## Form
  - https://github.com/jaredpalmer/formik
