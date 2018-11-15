@@ -26,3 +26,7 @@
 ## Deploy
  - https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-dynamodb-tutorial.html?refid=gs_card
  - https://www.thorntech.com/2018/07/s3-ec2-iam-cloudformation/
+
+
+## AUTH
+ - https://github.com/aws-amplify/amplify-js
